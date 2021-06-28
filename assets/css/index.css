@@ -1,0 +1,32 @@
+body{
+    background-color: tan !important;
+}
+
+.container{
+    width: 960px;
+    height: 360px;
+    margin:  auto;
+    margin-top: 120px;
+    margin-bottom: 100px;
+    outline: 1px solid tan;
+    background:  #4aaaa5;
+    float: center;
+    padding: 80px;
+    bottom: 0px;
+    right: 0;
+    left: 0;
+    background: #4aaaa5;
+}
+
+h1{
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+    
+}
+
+
+
+
